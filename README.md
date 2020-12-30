@@ -1,7 +1,8 @@
-### Hi there 👋
+### Oi, bem-vindos! :beer:
 
 <!--
-**leduqueiroz/leduqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img align="right" width="40%" src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" alt="developer" />
 
 Here are some ideas to get you started:
 
