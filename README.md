@@ -1,7 +1,7 @@
 ### Olá, <br> 
 ### Sejam bem-vindos! :beer:
 
-<img align="right" width="40%" src="https://media.giphy.com/media/MGdfeiKtEiEPS/giphy.gif" />
+<img align="right" width="40%" src="https://raw.githubusercontent.com/leduqueiroz/leduqueiroz/main/a53560c8088900e266880f779dacced7.gif" />
 
 <p>
   Meu nome é Eduardo Queiróz 
