@@ -40,7 +40,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduqueiroz&show_icons=true&theme=dracula" alt="Edu Queiríz Github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=leduqueiroz&show_icons=true&theme=dracula&count_private=true" alt="Edu Queiríz Github" />
 </p>
 
 <br/>
