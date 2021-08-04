@@ -40,9 +40,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leduqueiroz&show_icons=true&theme=dracula&count_private=true" alt="Edu Queiríz Github" />
+  <img src="https://github-readme-stats-2lle77qfz-leduqueiroz.vercel.app/api?username=leduqueiroz&count_private=true&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&show_icons=true&include_all_commits&custom_title=Eduardo%20Queir%C3%B3z%20-%20Development%20Stats&theme=dracula" alt="Edu Queiróz Github" />
 </p>
+<br/>
 
+<p align="center">
+  <img src="https://github-readme-stats-2lle77qfz-leduqueiroz.vercel.app/api/top-langs/?username=leduqueiroz&count_private=true&role=OWNER,COLLABORATOR&show_icons=true&include_all_commits&custom_title=Top%20Languages&theme=dracula" alt="Edu Queiróz Github" />
+</p>
 <br/>
 
 <p align="right">
@@ -50,3 +54,11 @@
       <img src="https://badges.pufler.dev/visits/leduqueiroz/leduqueiroz" alt="Visitors badge" />
    </a>
 </p>
+
+<p align="right">
+  <a href="https://badges.pufler.dev">
+    <img src="https://img.shields.io/github/followers/leduqueiroz?label=Follow&style=social" alt="Edu Queiríz Github" />
+   </a>
+</p>
+
+
