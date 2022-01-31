@@ -1,7 +1,7 @@
 ### Olá, <br> 
 ### Sejam bem-vindos! :beer:
 
-<img align="right" width="40%" src="https://raw.githubusercontent.com/leduqueiroz/leduqueiroz/main/a53560c8088900e266880f779dacced7.gif" />
+<img align="right" width="40%" src="https://raw.githubusercontent.com/leduqueiroz/leduqueiroz/main/animation_500_kz2vpefp.gif" />
 
 <p>
   Meu nome é Eduardo Queiróz 
@@ -24,22 +24,12 @@
 </a>
 
 <br/>
-<br/>
 
 ## Últimos artigos
-
-<br/>
-<img align="right" width="30%" src="https://raw.githubusercontent.com/leduqueiroz/leduqueiroz/main/animation_300_kz2utx6w.gif" />
-
-<br/>
-<br/>
-<br/>
 
 - 📌 [Unity3D - Menus e Localização](https://leduqueiroz.github.io/unity/2021/08/04/unity-menu-localization.html)<br />
 - 📌 [Eventos de WebHook - Parte 1](https://leduqueiroz.github.io/2020/04/20/hooks-aws.html)<br />
 - 📌 [Introdução ao .Net Core](https://leduqueiroz.github.io/introducaoaspnetcore/2019/09/12/introdotnetcore.html)
-
-<br/>
 
 ## Código
 
