@@ -48,12 +48,6 @@
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/leduqueiroz/leduqueiroz" alt="Visitors badge" />
-   </a>
-</p>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
     <img src="https://img.shields.io/github/followers/leduqueiroz?label=Follow&style=social" alt="Edu Queiríz Github" />
    </a>
 </p>
