@@ -24,7 +24,7 @@
       <ul>
         <li>Twitter: <a href="https://twitter.com/eduqueirooz">eduqueirooz</a></li>
         <li>LinkedIn: <a href="https://www.linkedin.com/in/eduqueirooz">Eduardo Queiróz</a></li>
-        <li>Website: <a href="https://leduqueirooz.github.io">https://leduqueirooz.github.io</a></li>
+        <li>Website: <a href="https://leduqueiroz.github.io">https://leduqueiroz.github.io</a></li>
       </ul>
     </td>
     <td width="50%">
