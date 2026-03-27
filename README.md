@@ -2,7 +2,7 @@
   <tr>
     <td valign="top">
       <h1>Eduardo Queiróz</h1>
-      <p>Engenheiro de software focado na construção de sistemas distribuídos, arquitetura em cloud, design orientado a eventos e microserviços. Principais interesses incluem plataformas de mensageria, orquestração de containers, system design e liderança técnica em ambientes ágeis.</p>
+      <p>Engenheiro de software focado na construção de sistemas distribuídos, arquitetura em cloud, design orientado a eventos e microserviços.</p>
       <h2>Áreas de Interesse</h2>
       <ul>
         <li>Arquiteturas distribuídas e sistemas escaláveis</li>
