@@ -1,55 +1,34 @@
-### Olá, <br> 
-### Sejam bem-vindos! :beer:
-
-<img align="right" width="30%" src="https://raw.githubusercontent.com/leduqueiroz/leduqueiroz/main/animation_500_kz2vpefp.gif" />
-
-<p>
-  Meu nome é Eduardo Queiróz 
-  Tenho mais de 15 anos desenvolvendo software, 3 décadas apreciando uma boa culinária, 33 anos jogando um bom playstation. <br>
-  Nasci em Americana/SP mas fixei residência no Rio de Janeiro há mais de uma década e foi aqui que comecei a compartilhar conhecimento e participar de várias comunidades sobre desenvolvimento de software.
-</p>
-
-### Contatos:
-
-<a href="https://www.linkedin.com/in/eduqueirooz/">
-  <code><img alt="Linkedin" width="32" src="https://www.svgrepo.com/show/138936/linkedin.svg" /></code>
-</a>
-
-<a href="mailto:luiz.eduardo.queiroz@outlook.com">
-  <code><img alt="E-mail" width="32" src="https://www.svgrepo.com/show/217146/gmail.svg" /></code>
-</a>
-
-<a href="https://mobile.twitter.com/eduqueirooz">
-  <code><img alt="Twitter" width="32" src="https://www.svgrepo.com/show/157815/twitter.svg" /></code>
-</a>
-
-<br/>
-
-## Últimos artigos
-
-- 📌 [C# Minimal API com .NET 6](https://leduqueiroz.github.io/.net/2022/02/07/udemy-released.html)<br />
-- 📌 [Unity3D - Menus e Localização](https://leduqueiroz.github.io/unity/2021/08/04/unity-menu-localization.html)<br />
-- 📌 [Eventos de WebHook - Parte 1](https://leduqueiroz.github.io/2020/04/20/hooks-aws.html)<br />
-- 📌 [Introdução ao .Net Core](https://leduqueiroz.github.io/introducaoaspnetcore/2019/09/12/introdotnetcore.html)
-
-## Código
-
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-2lle77qfz-leduqueiroz.vercel.app/api?username=leduqueiroz&count_private=true&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR&show_icons=true&include_all_commits&custom_title=Eduardo%20Queir%C3%B3z%20-%20Development%20Stats&theme=dracula" alt="Edu Queiróz Github" />
-</p>
-<br/>
-
-<p align="center">
-  <img src="https://github-readme-stats-2lle77qfz-leduqueiroz.vercel.app/api/top-langs/?username=leduqueiroz&count_private=true&role=OWNER,COLLABORATOR&show_icons=true&include_all_commits&custom_title=Top%20Languages&theme=dracula" alt="Edu Queiróz Github" />
-</p>
-<br/>
-
-<p align="right">
-  <a href="https://badges.pufler.dev">
-    <img src="https://img.shields.io/github/followers/leduqueiroz?label=Follow&style=social" alt="Edu Queiríz Github" />
-   </a>
-</p>
-
-
+<table>
+  <tr>
+    <td  width="400">
+      <img src="" width="400" alt="Inferno Canto VIII - Gustave Doré">
+    </td>
+    <td valign="top">
+      <h1>Eduardo Queiróz</h1>
+      <p>Engenheiro de software focado na construção de sistemas distribuídos, arquitetura em cloud, design orientado a eventos e microserviços. Principais interesses incluem plataformas de mensageria, orquestração de containers, system design e liderança técnica em ambientes ágeis.</p>
+      <h2>Áreas de Interesse</h2>
+      <ul>
+        <li>Arquiteturas distribuídas e sistemas escaláveis</li>
+        <li>Computação em nuvem e plataformas cloud-native</li>
+        <li>Arquiteturas orientadas a eventos e mensageria</li>
+        <li>Microserviços e design de sistemas</li>
+        <li>Containerização e orquestração (Docker, Kubernetes)</li>
+        <li>Liderança técnica e times ágeis</li>
+      </ul>
+     <h2>Tecnologias</h2>
+    <ul>
+      <li>Linguagens: C#, .NET, TypeScript</li>
+      <li>Cloud & Infraestrutura: Azure, Docker, Kubernetes, Infraestrutura como Código</li>
+      <li>Mensageria & Streaming: Kafka, RabbitMQ, Azure Service Bus</li>
+      <li>Arquitetura: microserviços, sistemas distribuídos, arquitetura orientada a eventos</li>
+      <li>Práticas: system design, escalabilidade, resiliência, observabilidade</li>
+    </ul>
+      <h2>Contatos</h2>
+      <ul>
+        <li>Twitter: <a href="https://twitter.com/eduqueirooz">eduqueirooz</a></li>
+        <li>LinkedIn: <a href="https://www.linkedin.com/in/eduqueirooz">Eduardo Queiróz</a></li>
+        <li>Website: <a href="https://leduqueirooz.github.io">https://leduqueirooz.github.io</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
