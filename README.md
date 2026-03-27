@@ -27,8 +27,8 @@
         <li>Website: <a href="https://leduqueirooz.github.io">https://leduqueirooz.github.io</a></li>
       </ul>
     </td>
-    <td width="400">
-      <img src="1_jQjG5Pabfe5BHsf8gte1wQ.webp" width="400" alt="Noites brancas e sua melancolia">
+    <td width="50%">
+      <img src="1_jQjG5Pabfe5BHsf8gte1wQ.webp" width="100%" alt="Noites brancas e sua melancolia">
     </td>
   </tr>
 </table>
