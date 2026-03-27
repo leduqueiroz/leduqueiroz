@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td  width="400">
-      <img src="" width="400" alt="Inferno Canto VIII - Gustave Doré">
+      <img src="1_jQjG5Pabfe5BHsf8gte1wQ.webp" width="400" alt="Inferno Canto VIII - Gustave Doré">
     </td>
     <td valign="top">
       <h1>Eduardo Queiróz</h1>
