@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="50%">
-      <img src="1_jQjG5Pabfe5BHsf8gte1wQ.webp" width="100%" alt="Noites brancas e sua melancolia">
+      <img src="noteisbrancas.svg" width="100%" alt="Noites brancas e sua melancolia">
     </td>
   </tr>
 </table>
